@@ -1,0 +1,913 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{92D314B4-448F-41B2-8C82-B3AE0964C842}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>pl.office</RootNamespace>
+    <AssemblyName>PL-Office</AssemblyName>
+    <StartupObject>pl.office.AppMain</StartupObject>
+    <ApplicationIcon>App.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\_products\pl-office\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\_products\pl-office\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility" />
+    <Reference Include="ChilkatDotNet2">
+      <HintPath>..\..\_dll\ChilkatDotNet2.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\_dll\CrystalDecisions.Enterprise.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Web, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalToolkit">
+      <HintPath>..\..\_dll\CrystalToolkit.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpres.Core, Version=1.0.10.23311, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_dll\DevExpres.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v10.1.Core, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.Data.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.Tutorials.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v10.1.UI, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPivotGrid.v10.1.Core, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPivotGrid.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v10.1.Design, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v10.1.Extensions, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v10.1.Core, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraRichEdit.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\DevExpress 2010.1\Components\Sources\DevExpress.DLL\DevExpress.XtraRichEdit.v10.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraRichEdit.v10.1.Design, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\DevExpress 2010.1\Components\Sources\DevExpress.DLL\DevExpress.XtraRichEdit.v10.1.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraRichEdit.v10.1.Extensions, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\DevExpress 2010.1\Components\Sources\DevExpress.DLL\DevExpress.XtraRichEdit.v10.1.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraRichEdit.v10.1.Printing, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\DevExpress 2010.1\Components\Sources\DevExpress.DLL\DevExpress.XtraRichEdit.v10.1.Printing.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v10.1.Reporting.Extensions, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v10.1.Core, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraVerticalGrid.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraVerticalGrid.v10.1.Design, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraWizard.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="FirebirdSql.Data.FirebirdClient, Version=2.5.0.0, Culture=neutral, PublicKeyToken=3750abcc3150b00c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\_dll\FirebirdSql.Data.FirebirdClient.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>..\..\_dll\ICSharpCode.SharpZipLib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.TextEditor">
+      <HintPath>..\..\_dll\ICSharpCode.TextEditor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Interop.FAXCOMLib, Version=1.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Documents and Settings\dathq\My Documents\Downloads\Fax-XP-ing\Interop.FAXCOMLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Office">
+      <HintPath>..\..\_dll\Interop.Office.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Interop.VBIDE">
+      <HintPath>..\..\_dll\Interop.VBIDE.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Interop.Word">
+      <HintPath>..\..\_dll\Interop.Word.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="LumenWorks.Framework.IO">
+      <HintPath>..\..\_dll\LumenWorks.Framework.IO.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="LumiSoft.Net">
+      <HintPath>..\..\_dll\LumiSoft.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\_dll\Microsoft.mshtml.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel.2007, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\_dll\Microsoft.Office.Interop.Excel.2007.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word.2007, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\_dll\Microsoft.Office.Interop.Word.2007.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Vbe.Interop, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\_dll\Microsoft.Vbe.Interop.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\_dll\Microsoft.VisualBasic.dll</HintPath>
+    </Reference>
+    <Reference Include="office">
+      <HintPath>..\..\_dll\office.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ProtocolVN.DanhMuc, Version=1.0.10.23314, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_dll\ProtocolVN.DanhMuc.dll</HintPath>
+    </Reference>
+    <Reference Include="ProtocolVN.Framework.Core, Version=1.0.0.21490, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_dll\ProtocolVN.Framework.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="ProtocolVN.Framework.Lic, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_dll\ProtocolVN.Framework.Lic.dll</HintPath>
+    </Reference>
+    <Reference Include="ProtocolVN.Framework.Win, Version=1.0.10.140, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_dll\ProtocolVN.Framework.Win.dll</HintPath>
+    </Reference>
+    <Reference Include="ProtocolVN.Framework.Win.Dev, Version=1.0.10.21466, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_dll\ProtocolVN.Framework.Win.Dev.dll</HintPath>
+    </Reference>
+    <Reference Include="ProtocolVN.IntelliLock.Licensing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=fa31f7b96357acdc">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_dll\ProtocolVN.IntelliLock.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="ProtocolVN.Plugin.Chat, Version=1.1.47.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_dll\ProtocolVN.Plugin.Chat.dll</HintPath>
+    </Reference>
+    <Reference Include="ProtocolVN.Win.Pivots, Version=1.0.3858.21452, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_dll\ProtocolVN.Win.Pivots.dll</HintPath>
+    </Reference>
+    <Reference Include="syncfusion.docio.base">
+      <HintPath>..\..\_dll\syncfusion.docio.base.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="syncfusion.docio.windows">
+      <HintPath>..\..\_dll\syncfusion.docio.windows.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="syncfusion.xlsio.base">
+      <HintPath>..\..\_dll\syncfusion.xlsio.base.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="syncfusion.xlsio.windows">
+      <HintPath>..\..\_dll\syncfusion.xlsio.windows.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TallComponents.Imaging">
+      <HintPath>..\..\_dll\TallComponents.Imaging.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="TallComponents.PDF.Rasterizer">
+      <HintPath>..\..\_dll\TallComponents.PDF.Rasterizer.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UserAPI">
+      <HintPath>..\..\_dll\UserAPI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Application\Define\AppMain.cs" />
+    <Compile Include="Application\Define\AppLog.cs" />
+    <Compile Include="Application\Define\AppParams.cs" />
+    <Compile Include="Application\Define\PLPermission.cs" />
+    <Compile Include="Application\Define\AppDanhMuc.cs" />
+    <Compile Include="DanhMuc\DMCTinhTrangFax.cs" />
+    <Compile Include="DanhMuc\DMNhomKhachHangX.cs" />
+    <Compile Include="DanhMuc\DMVanDeGopY.cs" />
+    <Compile Include="ZTest\DemoControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZTest\DemoControl.Designer.cs">
+      <DependentUpon>DemoControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZTest\UnboundExpression_GroupInterval\frmGroupIntervalOption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZTest\UnboundExpression_GroupInterval\frmGroupIntervalOption.Designer.cs">
+      <DependentUpon>frmGroupIntervalOption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZTest\UnboundExpression_GroupInterval\frmDemo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZTest\UnboundExpression_GroupInterval\frmDemo.Designer.cs">
+      <DependentUpon>frmDemo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZTest\UnboundExpression_GroupInterval\Help.cs" />
+    <Compile Include="__crm\ModHopDong\frmHopDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__crm\ModHopDong\frmHopDong.Designer.cs">
+      <DependentUpon>frmHopDong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__fin\PhieuThuChi\DAKyKinhDoanhPTC.cs" />
+    <Compile Include="__fin\PhieuThuChi\DAPhieuThuChi.cs" />
+    <Compile Include="__fin\PhieuThuChi\DATienMatKKDPTC.cs" />
+    <Compile Include="__fin\PhieuThuChi\DOKyKinhDoanhPTC.cs" />
+    <Compile Include="__fin\PhieuThuChi\DOPhieuThuChi.cs" />
+    <Compile Include="__fin\PhieuThuChi\DOTienMatKKDPTC.cs" />
+    <Compile Include="__fin\PhieuThuChi\frmKhoaMoSoCongNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__fin\PhieuThuChi\frmKhoaMoSoCongNo.designer.cs">
+      <DependentUpon>frmKhoaMoSoCongNo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__fin\PhieuThuChi\frmPhieuChi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__fin\PhieuThuChi\frmPhieuThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__fin\PhieuThuChi\frmPhieuThuChiEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__fin\PhieuThuChi\frmPhieuThuChiEdit.Designer.cs">
+      <DependentUpon>frmPhieuThuChiEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__fin\PhieuThuChi\frmPhieuThuChiMan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__fin\PhieuThuChi\frmPhieuThuChiMan.Designer.cs">
+      <DependentUpon>frmPhieuThuChiMan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__hrm\ModHoSoNhanVien\frmTheoDoi_TT_HL_TVQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__hrm\ModHoSoNhanVien\frmTheoDoi_TT_HL_TVQL.designer.cs">
+      <DependentUpon>frmTheoDoi_TT_HL_TVQL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__hrm\ModHoSoNhanVien\modelN\DAPhongVan.cs" />
+    <Compile Include="__hrm\ModHoSoNhanVien\modelN\DOPhongVan.cs" />
+    <Compile Include="__hrm\ModHoSoNhanVien\model\DAHuanLuyenThuViecThucTap.cs" />
+    <Compile Include="__hrm\ModHoSoNhanVien\model\DOHuanLuyenThuViecThucTap.cs" />
+    <Compile Include="Report\RPTUserControls\RPT_NHAN_VIEN.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Report\RPTUserControls\RPT_NHAN_VIEN.Designer.cs">
+      <DependentUpon>RPT_NHAN_VIEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RPT_TraLuong.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_TraLuong.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RPTUserControls\RPT_TRA_LUONG.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Report\RPTUserControls\RPT_TRA_LUONG.Designer.cs">
+      <DependentUpon>RPT_TRA_LUONG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__hrm_payroll\BangChamCongUpdate\DABangChamCong64.cs" />
+    <Compile Include="__hrm_payroll\BangChamCongUpdate\DOBangChamCong64.cs" />
+    <Compile Include="__hrm_payroll\BangChamCongUpdate\frmAddNewNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__hrm_payroll\BangChamCongUpdate\frmAddNewNV.Designer.cs">
+      <DependentUpon>frmAddNewNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__hrm_payroll\BangChamCongUpdate\frmBangChamCongBandedQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__hrm_payroll\BangChamCongUpdate\frmBangChamCongBandedQL.Designer.cs">
+      <DependentUpon>frmBangChamCongBandedQL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\Report\file\RPT_NgayLamViec.cs">
+      <DependentUpon>RPT_NgayLamViec.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\_temp\frmTimeRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\_temp\frmTimeRecord.Designer.cs">
+      <DependentUpon>frmTimeRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\Report\CT_RPT_DUAN.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\Report\CT_RPT_DUAN.Designer.cs">
+      <DependentUpon>CT_RPT_DUAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\Report\CT_RPT_NHANVIEN.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\Report\CT_RPT_NHANVIEN.Designer.cs">
+      <DependentUpon>CT_RPT_NHANVIEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\Report\CT_TONGHOP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\Report\CT_TONGHOP.Designer.cs">
+      <DependentUpon>CT_TONGHOP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\Report\CT_TONGHOPDUAN.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\Report\CT_TONGHOPDUAN.Designer.cs">
+      <DependentUpon>CT_TONGHOPDUAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\Report\PLTimeSheetReport.cs" />
+    <Compile Include="Report\rptNhanvien.cs">
+      <DependentUpon>rptNhanvien.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\Report\file\RPT_DuAnQL.cs">
+      <DependentUpon>RPT_DuAnQL.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Report\RPT_CongViec.cs">
+      <DependentUpon>RPT_CongViec.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\Report\file\RPT_TimeSheetDuAn.cs">
+      <DependentUpon>RPT_TimeSheetDuAn.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Training\ModDiemTheoDoi\Design\DAQuanLyThucHien.cs" />
+    <Compile Include="Training\ModDiemTheoDoi\Instance\LoaiTheoDoiNopDuLieu\DAQuanLyThucHienLenLop.cs" />
+    <Compile Include="Training\ModDiemTheoDoi\Instance\LoaiTheoDoiNopDuLieu\DAQuanLyThucHienNopBai.cs" />
+    <Compile Include="Training\ModDiemTheoDoi\Design\DOQuanLyThucHien.cs" />
+    <Compile Include="Training\ModDiemTheoDoi\Design\frmBangTheoDoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Training\ModDiemTheoDoi\Design\frmBangTheoDoi.Designer.cs">
+      <DependentUpon>frmBangTheoDoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Training\ModDiemTheoDoi\Design\frmBangTheoDoiQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Training\ModDiemTheoDoi\Design\frmBangTheoDoiQL.Designer.cs">
+      <DependentUpon>frmBangTheoDoiQL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Training\ModDiemTheoDoi\Design\frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Training\ModDiemTheoDoi\Design\frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Training\ModDiemTheoDoi\Design\frmQuanLyThucHien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Training\ModDiemTheoDoi\Design\frmQuanLyThucHien.Designer.cs">
+      <DependentUpon>frmQuanLyThucHien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Training\ModDiemTheoDoi\Design\DABangTheoDoi.cs" />
+    <Compile Include="Training\ModDiemTheoDoi\Instance\LoaiTheoDoiLenLop\DALenLop.cs" />
+    <Compile Include="Training\ModDiemTheoDoi\Instance\LoaiTheoDoiNopDuLieu\DANopBai.cs" />
+    <Compile Include="Training\ModDiemTheoDoi\Design\DOBangTheoDoi.cs" />
+    <Compile Include="Training\ModDiemTheoDoi\Instance\LoaiTheoDoiLenLop\DOLenLop.cs" />
+    <Compile Include="Training\ModDiemTheoDoi\Instance\LoaiTheoDoiNopDuLieu\DONopBai.cs" />
+    <Compile Include="Training\ModEmailEngine\Attachment.cs" />
+    <Compile Include="Training\ModEmailEngine\EmailClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Training\ModEmailEngine\EmailClient.Designer.cs">
+      <DependentUpon>EmailClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Training\ModEmailEngine\Internet.cs" />
+    <Compile Include="Training\ModEmailEngine\MailDecoder.cs" />
+    <Compile Include="Training\ModEmailEngine\MailEncoder.cs" />
+    <Compile Include="Training\ModEmailEngine\MailMessage.cs" />
+    <Compile Include="Training\ModEmailEngine\Pop3Client.cs" />
+    <Compile Include="Training\ModEmailEngine\Pop3ClientException.cs" />
+    <Compile Include="Training\ModEmailEngine\Program.cs" />
+    <Compile Include="Training\ModEmailEngine\Rtf2Html.cs" />
+    <Compile Include="Training\ModEmailEngine\SmtpClient.cs" />
+    <Compile Include="Training\ModEmailEngine\SmtpClientException.cs" />
+    <Compile Include="Training\ModEmailEngine\ToolBarRenderer.cs" />
+    <Compile Include="Application\Define\AppFormat.cs" />
+    <Compile Include="Application\Define\AppMenu.cs" />
+    <Compile Include="Application\Define\PLReport.cs" />
+    <Compile Include="Application\Define\PLValidation.cs" />
+    <Compile Include="__hrm_payroll\ModTimeSheet\Report\file\RPT_NhanVien.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_NhanVien.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="ZTest\DemoControl.resx">
+      <DependentUpon>DemoControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZTest\UnboundExpression_GroupInterval\frmGroupIntervalOption.resx">
+      <DependentUpon>frmGroupIntervalOption.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZTest\UnboundExpression_GroupInterval\frmDemo.resx">
+      <DependentUpon>frmDemo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__crm\ModHopDong\frmHopDong.resx">
+      <DependentUpon>frmHopDong.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__fin\PhieuThuChi\frmKhoaMoSoCongNo.resx">
+      <DependentUpon>frmKhoaMoSoCongNo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__fin\PhieuThuChi\frmPhieuThuChiEdit.resx">
+      <DependentUpon>frmPhieuThuChiEdit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__fin\PhieuThuChi\frmPhieuThuChiMan.resx">
+      <DependentUpon>frmPhieuThuChiMan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__hrm\ModHoSoNhanVien\frmTheoDoi_TT_HL_TVQL.resx">
+      <DependentUpon>frmTheoDoi_TT_HL_TVQL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RPTUserControls\RPT_NHAN_VIEN.resx">
+      <DependentUpon>RPT_NHAN_VIEN.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RPT_TraLuong.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_TraLuong.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RPTUserControls\RPT_TRA_LUONG.resx">
+      <DependentUpon>RPT_TRA_LUONG.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__hrm_payroll\BangChamCongUpdate\frmAddNewNV.resx">
+      <DependentUpon>frmAddNewNV.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__hrm_payroll\BangChamCongUpdate\frmBangChamCongBandedQL.resx">
+      <DependentUpon>frmBangChamCongBandedQL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__hrm_payroll\ModTimeSheet\Report\file\RPT_NgayLamViec.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_NgayLamViec.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__hrm_payroll\ModTimeSheet\_temp\frmTimeRecord.resx">
+      <DependentUpon>frmTimeRecord.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__hrm_payroll\ModTimeSheet\Report\CT_RPT_DUAN.resx">
+      <DependentUpon>CT_RPT_DUAN.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__hrm_payroll\ModTimeSheet\Report\CT_RPT_NHANVIEN.resx">
+      <DependentUpon>CT_RPT_NHANVIEN.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__hrm_payroll\ModTimeSheet\Report\CT_TONGHOP.resx">
+      <DependentUpon>CT_TONGHOP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__hrm_payroll\ModTimeSheet\Report\CT_TONGHOPDUAN.resx">
+      <DependentUpon>CT_TONGHOPDUAN.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptNhanvien.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptNhanvien.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__hrm_payroll\ModTimeSheet\Report\file\RPT_DuAnQL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_DuAnQL.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RPT_CongViec.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_CongViec.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__hrm_payroll\ModTimeSheet\Report\file\RPT_TimeSheetDuAn.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_TimeSheetDuAn.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__hrm_payroll\ModTimeSheet\Report\file\RPT_NhanVien.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_NhanVien.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Training\ModDiemTheoDoi\Design\frmBangTheoDoi.resx">
+      <DependentUpon>frmBangTheoDoi.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Training\ModDiemTheoDoi\Design\frmBangTheoDoiQL.resx">
+      <DependentUpon>frmBangTheoDoiQL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Training\ModDiemTheoDoi\Design\frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Training\ModDiemTheoDoi\Design\frmQuanLyThucHien.resx">
+      <DependentUpon>frmQuanLyThucHien.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Training\ModEmailEngine\EmailClient.resx">
+      <DependentUpon>EmailClient.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__hrm_payroll\ModTimeSheet\_temp\frmKeHoachLamViec.resx">
+      <DependentUpon>frmKeHoachLamViec.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__hrm_payroll\ModTimeSheet\_temp\frmKeHoachLamViecQL.resx">
+      <DependentUpon>frmKeHoachLamViecQL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="___pl-office\DienDanThaoLuan\frmDienDanBandedQL.resx">
+      <DependentUpon>frmDienDanBandedQL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="___pl-office\ModHomThuGopY\frmHomThuGopY.resx">
+      <DependentUpon>frmHomThuGopY.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="___pl-office\ModHomThuGopY\frmHomThuGopYQL.resx">
+      <DependentUpon>frmHomThuGopYQL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="___pl-office\ModHoTroFax\frmHoTroFaxQL.resx">
+      <DependentUpon>frmHoTroFaxQL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="___pl-office\ModHoTroFax\frmSendFax.resx">
+      <DependentUpon>frmSendFax.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="___pl-office\ModHoTroFax\frmYeuCauFax.resx">
+      <DependentUpon>frmYeuCauFax.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="___pl-office\ModRSS\frmRSS.resx">
+      <DependentUpon>frmRSS.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="___pl-office\ModTiepNhanInfo\frmTiepNhanThongTin.resx">
+      <DependentUpon>frmTiepNhanThongTin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="___pl-office\ModTiepNhanInfo\frmTiepNhanThongTinVerticalQL.resx">
+      <DependentUpon>frmTiepNhanThongTinVerticalQL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Application\Lib\PLCtrl.cs" />
+    <Compile Include="__hrm_payroll\ModTimeSheet\PLTimeSheetDanhMuc.cs" />
+    <Compile Include="__hrm_payroll\ModTimeSheet\PLTimeSheetMenu.cs" />
+    <Compile Include="__hrm_payroll\ModTimeSheet\_temp\frmKeHoachLamViec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\_temp\frmKeHoachLamViec.Designer.cs">
+      <DependentUpon>frmKeHoachLamViec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\_temp\frmKeHoachLamViecQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\_temp\frmKeHoachLamViecQL.Designer.cs">
+      <DependentUpon>frmKeHoachLamViecQL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\_temp\frmTimeSheetDM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__hrm_payroll\ModTimeSheet\_temp\frmTimeSheetReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="___pl-office\DienDanThaoLuan\frmDienDanBandedQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="___pl-office\DienDanThaoLuan\frmDienDanBandedQL.Designer.cs">
+      <DependentUpon>frmDienDanBandedQL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="___pl-office\ModHomThuGopY\frmHomThuGopY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="___pl-office\ModHomThuGopY\frmHomThuGopY.Designer.cs">
+      <DependentUpon>frmHomThuGopY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="___pl-office\ModHomThuGopY\frmHomThuGopYQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="___pl-office\ModHomThuGopY\frmHomThuGopYQL.designer.cs">
+      <DependentUpon>frmHomThuGopYQL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="___pl-office\ModHomThuGopY\model\DAHomThuGopY.cs" />
+    <Compile Include="___pl-office\ModHomThuGopY\model\DAReHomThuGopY.cs" />
+    <Compile Include="___pl-office\ModHomThuGopY\model\DOHomThuGopY.cs" />
+    <Compile Include="___pl-office\ModHomThuGopY\model\DOReHomThuGopY.cs" />
+    <Compile Include="___pl-office\ModHoTroFax\frmHoTroFaxQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="___pl-office\ModHoTroFax\frmHoTroFaxQL.Designer.cs">
+      <DependentUpon>frmHoTroFaxQL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="___pl-office\ModHoTroFax\frmSendFax.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="___pl-office\ModHoTroFax\frmSendFax.Designer.cs">
+      <DependentUpon>frmSendFax.cs</DependentUpon>
+    </Compile>
+    <Compile Include="___pl-office\ModHoTroFax\frmYeuCauFax.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="___pl-office\ModHoTroFax\frmYeuCauFax.Designer.cs">
+      <DependentUpon>frmYeuCauFax.cs</DependentUpon>
+    </Compile>
+    <Compile Include="___pl-office\ModHoTroFax\model\DAHoTroFax.cs" />
+    <Compile Include="___pl-office\ModHoTroFax\model\DATapTinFax.cs" />
+    <Compile Include="___pl-office\ModHoTroFax\model\DOHoTroFax.cs" />
+    <Compile Include="___pl-office\ModHoTroFax\model\DOTapTinFax.cs" />
+    <Compile Include="___pl-office\ModHoTroFax\model\DOTapTin_TapTinFax.cs" />
+    <Compile Include="___pl-office\ModRSS\frmRSS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="___pl-office\ModRSS\frmRSS.Designer.cs">
+      <DependentUpon>frmRSS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="___pl-office\ModTiepNhanInfo\DATiepNhanInfo.cs" />
+    <Compile Include="___pl-office\ModTiepNhanInfo\DMNguonThongTin.cs" />
+    <Compile Include="___pl-office\ModTiepNhanInfo\DOTiepNhanInfo.cs" />
+    <Compile Include="___pl-office\ModTiepNhanInfo\frmTiepNhanThongTin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="___pl-office\ModTiepNhanInfo\frmTiepNhanThongTin.Designer.cs">
+      <DependentUpon>frmTiepNhanThongTin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="___pl-office\ModTiepNhanInfo\frmTiepNhanThongTinVerticalQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="___pl-office\ModTiepNhanInfo\frmTiepNhanThongTinVerticalQL.Designer.cs">
+      <DependentUpon>frmTiepNhanThongTinVerticalQL.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Report\ThuPhongVan.doc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="App.ico" />
+    <Content Include="plugins\ProtocolVN.Plugin.WarningSystem\ProtocolVN.Plugin.WarningSystem.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="plugins\ProtocolVN.Plugin.WarningSystem\warningsystem\readme.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="__hrm_payroll\ModTimeSheet\Form\ve-15F.tmp" />
+    <Content Include="Training\ModDiemTheoDoi\Design\Req.txt" />
+    <Content Include="Training\ModEmailEngine\Req.txt" />
+    <Content Include="Training\ModEmailEngine\world.ico" />
+    <Content Include="__hrm\ModHoSoNhanVien\template\a.html" />
+    <Content Include="__hrm\ModHoSoNhanVien\template\b.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\releaseV1.0\ProtocolVN.App.Office.v1.0.csproj">
+      <Project>{E921636C-D458-40A3-A5FF-C69DFE97069B}</Project>
+      <Name>ProtocolVN.App.Office.v1.0</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Application\Form\" />
+    <Folder Include="Application\_DELETE\" />
+    <Folder Include="Report\HeaderFooter\" />
+    <Folder Include="Training\ModDuAn\" />
+    <Folder Include="Training\_DELETE\" />
+    <Folder Include="ZTest\PLRichTextBox\" />
+    <Folder Include="_DELETE\" />
+    <Folder Include="_TO_FRAMEWORK\" />
+    <Folder Include="__hrm\ModHoSoNhanVien\_DELETE\" />
+    <Folder Include="__hrm_payroll\ModTimeSheet\_DELETE\" />
+    <Folder Include="___pl-care\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties Notes="&lt;Notes Project=&quot;92d314b4-448f-41b2-8c82-b3ae0964c842&quot; xmlns=&quot;clr-namespace:StickyNotes.Model;assembly=StickyNotes&quot;&gt;&lt;Notes.StickyNotes&gt;&lt;Note FilePath=&quot;&quot; Content=&quot;&quot; Date=&quot;2009-11-03T21:30:48.2399291+07:00&quot; /&gt;&lt;/Notes.StickyNotes&gt;&lt;/Notes&gt;" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

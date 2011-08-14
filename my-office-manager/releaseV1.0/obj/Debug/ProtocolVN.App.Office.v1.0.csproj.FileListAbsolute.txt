@@ -1,0 +1,236 @@
+D:\_PRODUTCS\_products\pl-office\ProtocolVN.App.Office.v1.0.dll
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.CurrentNews.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Framework.Trial.PLButtonEdit.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\DevExpress.XtraRichEdit.Demos.PLRichTextBox.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.ERPDesktop.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmLiveSupport.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Framework.Win.PLOImageCollectionMan.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmSaveOpen.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmThemTaiLieu.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Framework.Win.frmPhanQuyenNhanVienTaiNguyen.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.Properties.Resources.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Framework.Win.Office.PLDateSelection.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.CustomerTree.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmKhachHangQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmNhatKyKhachHang.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmTaoKhachHangMoi.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmKyKinhDoanh.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmChotPhieu.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhieuThuChi.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmThuChiQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmAddEmployee.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmCapNhatTinhTrangHoSo.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmGuiThuHenPhongVan.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmHoSoUngVien.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmHoSoQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhongVan.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhongVanQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmThongTinUngVien.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.__hrm_payroll.ModLuong.report.XRPT_TinhLuong_ChiTiet.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.__hrm_payroll.ModLuong.report.XRPT_BangLuong.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.__hrm_payroll.ModLuong.report.XRPT_TinhLuong.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.__hrm_payroll.ModLuong.report.XRPT_TinhLuong_ChiTiet_Sub.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.GuiMail.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\pl.hrm.form.PagerGrid.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\pl.hrm.form.TimeEdit1.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmChamCongAutoQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmChamCongQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmLichLamViecQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmThemLichTuan.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmDieuChinhLuong.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmThangBangLuongQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmChotBangLuong.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmCreatePayRoll.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmLuongQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhieuTamUng.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhieuTamUngQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmSendClient.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmSendClientQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.NgayNghiPhep.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmChangeTimeInOut.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmNghiPhep.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmNghiPhepQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhieuRaVaoCty.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhieuRaVaoCtyQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhieuXacNhanLamViecQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhieuXNLamViec.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmTimeInOut.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmTimeInOutQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmTimeRecordQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmTimeTable.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmDuAn.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmDuAnQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmNhatKyDuAn.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmBugProduct.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmBugProductQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmNhatKyCongViec.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmHoTroInAnQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmTapTinInAn.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmYeuCauInAn.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmCapNhatTienDo.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.Congviec.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmLichlamviec.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmQLCongviecQL1N.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\DevExpress.XtraBars.Demos.BrowserDemo.frmAddFavorites.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmThemMoi.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmWebsiteQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmDanhBaExtQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmBaiVietEtx.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.Training.ModTinTuc.frmViewListThreadFR.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmForumQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmReplyForum.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.PLMultiChoiceFiles.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.Training.ModDienDan.ucBaiViet.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmHotro.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhanhoi.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmYeuCauHoTroQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmViewThreadSupport.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmImageGallery.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmMeetingPlan.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmMeetingPlanQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmMeeting.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmMeetingQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmDesktopNewsPaper.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmDuyetRSS.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmNewsPaper.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmTinTucQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmAddFile.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmDocument.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmDocumentQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.v1.0.csproj.GenerateResource.Cache
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.v1.0.dll.licenses
+D:\_PRODUTCS\_products\pl-office\ProtocolVN.App.Office.v1.0.dll.config
+D:\_PRODUTCS\_products\pl-office\ProtocolVN.App.Office.v1.0.pdb
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.v1.0.dll
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.v1.0.pdb
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmViewThreadIssue.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.ucReplyIssue.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.ucReply.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Framework.Win.frmBroadCast.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmSendEmail.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Framework.Win.frmCauHinhExt.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmAutoOpenForm.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.ApplicationCore.PLDMTreeMultiChoice.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmLiveSupportCustomize.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\PermissionOfResource.frmPermissionDataPopUp.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\PermissionOfResource.frmPermissionDataQL.resources
+D:\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\PermissionOfResource.UCTreeListDataPermission.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.CurrentNews.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Framework.Trial.PLButtonEdit.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.ApplicationCore.PLDMTreeMultiChoice.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\DevExpress.XtraRichEdit.Demos.PLRichTextBox.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmAutoOpenForm.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmLiveSupportCustomize.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.ERPDesktop.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmLiveSupport.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmSendEmail.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Framework.Win.frmBroadCast.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Framework.Win.PLOImageCollectionMan.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmSaveOpen.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmThemTaiLieu.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\PermissionOfResource.frmPermissionDataPopUp.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\PermissionOfResource.frmPermissionDataQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\PermissionOfResource.UCTreeListDataPermission.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Framework.Win.frmPhanQuyenNhanVienTaiNguyen.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Framework.Win.frmCauHinhExt.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.Properties.Resources.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Framework.Win.Office.PLDateSelection.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.CustomerTree.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmKhachHangQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmNhatKyKhachHang.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmTaoKhachHangMoi.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmKyKinhDoanh.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmChotPhieu.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhieuThuChi.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmThuChiQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmAddEmployee.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmCapNhatTinhTrangHoSo.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmGuiThuHenPhongVan.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmHoSoUngVien.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmHoSoQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhongVan.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhongVanQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmThongTinUngVien.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.__hrm_payroll.ModLuong.report.XRPT_TinhLuong_ChiTiet.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.__hrm_payroll.ModLuong.report.XRPT_BangLuong.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.__hrm_payroll.ModLuong.report.XRPT_TinhLuong.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.__hrm_payroll.ModLuong.report.XRPT_TinhLuong_ChiTiet_Sub.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.GuiMail.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\pl.hrm.form.PagerGrid.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\pl.hrm.form.TimeEdit1.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmChamCongAutoQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmChamCongQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmLichLamViecQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmThemLichTuan.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmDieuChinhLuong.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmThangBangLuongQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmChotBangLuong.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmCreatePayRoll.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmLuongQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhieuTamUng.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhieuTamUngQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmSendClient.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmSendClientQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.NgayNghiPhep.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmChangeTimeInOut.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmNghiPhep.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmNghiPhepQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhieuRaVaoCty.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhieuRaVaoCtyQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhieuXacNhanLamViecQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhieuXNLamViec.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmTimeInOut.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmTimeInOutQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmTimeRecordQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmTimeTable.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmDuAn.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmDuAnQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmNhatKyDuAn.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmBugProduct.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmBugProductQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmViewThreadIssue.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.ucReplyIssue.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmNhatKyCongViec.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmHoTroInAnQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmTapTinInAn.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmYeuCauInAn.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmCapNhatTienDo.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.Congviec.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmLichlamviec.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmQLCongviecQL1N.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\DevExpress.XtraBars.Demos.BrowserDemo.frmAddFavorites.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmThemMoi.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmWebsiteQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmDanhBaExtQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmBaiVietEtx.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.Training.ModTinTuc.frmViewListThreadFR.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmForumQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmReplyForum.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.PLMultiChoiceFiles.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.Training.ModDienDan.ucBaiViet.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmHotro.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmPhanhoi.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmYeuCauHoTroQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmViewThreadSupport.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.ucReply.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmImageGallery.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmMeetingPlan.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmMeetingPlanQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmMeeting.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmMeetingQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmDesktopNewsPaper.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmDuyetRSS.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmNewsPaper.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmTinTucQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmAddFile.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmDocument.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\office.frmDocumentQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.v1.0.csproj.GenerateResource.Cache
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.v1.0.dll.licenses
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.v1.0.dll
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\_products\pl-office\ProtocolVN.App.Office.v1.0.dll.config
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\_products\pl-office\ProtocolVN.App.Office.v1.0.dll
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\_products\pl-office\ProtocolVN.App.Office.v1.0.pdb
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV1.0\obj\Debug\ProtocolVN.App.Office.v1.0.pdb

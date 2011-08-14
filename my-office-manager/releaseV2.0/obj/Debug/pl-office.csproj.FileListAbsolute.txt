@@ -1,0 +1,96 @@
+D:\_PRODUTCS\_products\pl-office\PL-Office.exe
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ResolveAssemblyReference.cache
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\pl.office.ZTest.DemoControl.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Framework.Win.frmGroupIntervalOption.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\pl.office.ZTest.UnboundExpression.frmDemo.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmHopDong.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmKhoaMoSoCongNo.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmPhieuThuChiEdit.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmPhieuThuChiMan.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmTheoDoi_TT_HL_TVQL.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\pl.office.Report.RPT_NHAN_VIEN.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\pl.office.Report.RPT_TRA_LUONG.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmAddNewNV.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\pl.office.frmBangChamCongBandedQL.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmTimeRecord.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.report.CT_RPT_DUAN.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.report.CT_RPT_NHANVIEN.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.report.CT_TONGHOP.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.report.CT_TONGHOPDUAN.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\pl.office.Properties.Resources.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmBangTheoDoi.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.form.frmBangTheoDoiQL.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmDangNhap.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmQuanLyThucHien.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\Email_Client.EmailClient.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmKeHoachLamViec.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmKeHoachLamViecQL.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Framework.Win.frmDienDanBandedQL.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmHomThuGopY.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmHomThuGopYQL.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmHoTroFaxQL.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmYeuCauFax.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Framework.Win.frmRSS.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmTiepNhanThongTin.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmTiepNhanThongTinVerticalQL.resources
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\pl-office.csproj.GenerateResource.Cache
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\PL-Office.exe.licenses
+D:\_PRODUTCS\_products\pl-office\PL-Office.exe.config
+D:\_PRODUTCS\_products\pl-office\plugins\ProtocolVN.Plugin.WarningSystem\ProtocolVN.Plugin.WarningSystem.dll
+D:\_PRODUTCS\_products\pl-office\plugins\ProtocolVN.Plugin.WarningSystem\warningsystem\readme.txt
+D:\_PRODUTCS\_products\pl-office\Report\RPT_TraLuong.rpt
+D:\_PRODUTCS\_products\pl-office\Report\rptNhanvien.rpt
+D:\_PRODUTCS\_products\pl-office\Report\RPT_CongViec.rpt
+D:\_PRODUTCS\_products\pl-office\Report\ThuPhongVan.doc
+D:\_PRODUTCS\_products\pl-office\PL-Office.pdb
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\PL-Office.exe
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\PL-Office.pdb
+D:\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmSendFax.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\_products\pl-office\PL-Office.exe.config
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\PL-Office.exe
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\PL-Office.pdb
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\_products\pl-office\plugins\ProtocolVN.Plugin.WarningSystem\ProtocolVN.Plugin.WarningSystem.dll
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\_products\pl-office\plugins\ProtocolVN.Plugin.WarningSystem\warningsystem\readme.txt
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\_products\pl-office\Report\RPT_TraLuong.rpt
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\_products\pl-office\Report\rptNhanvien.rpt
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\_products\pl-office\Report\RPT_CongViec.rpt
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\_products\pl-office\Report\ThuPhongVan.doc
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\_products\pl-office\PL-Office.exe
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\_products\pl-office\PL-Office.pdb
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ResolveAssemblyReference.cache
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\pl.office.ZTest.DemoControl.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Framework.Win.frmGroupIntervalOption.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\pl.office.ZTest.UnboundExpression.frmDemo.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmHopDong.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmKhoaMoSoCongNo.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmPhieuThuChiEdit.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmPhieuThuChiMan.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmTheoDoi_TT_HL_TVQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\pl.office.Report.RPT_NHAN_VIEN.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\pl.office.Report.RPT_TRA_LUONG.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmAddNewNV.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\pl.office.frmBangChamCongBandedQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmTimeRecord.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.report.CT_RPT_DUAN.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.report.CT_RPT_NHANVIEN.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.report.CT_TONGHOP.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.report.CT_TONGHOPDUAN.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\pl.office.Properties.Resources.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmBangTheoDoi.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.form.frmBangTheoDoiQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmDangNhap.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmQuanLyThucHien.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\Email_Client.EmailClient.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmKeHoachLamViec.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Plugin.TimeSheet.frmKeHoachLamViecQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Framework.Win.frmDienDanBandedQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmHomThuGopY.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmHomThuGopYQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmHoTroFaxQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmSendFax.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmYeuCauFax.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\ProtocolVN.Framework.Win.frmRSS.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmTiepNhanThongTin.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\office.frmTiepNhanThongTinVerticalQL.resources
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\pl-office.csproj.GenerateResource.Cache
+D:\DOCUMENT\TOP SECRET\_PRODUTCS\pl-office\releaseV2.0\obj\Debug\PL-Office.exe.licenses

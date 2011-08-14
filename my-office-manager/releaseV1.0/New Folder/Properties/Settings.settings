@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProtocolVN.App.Office.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="office_registrationWS_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:1680/RegistrationSvc/Service.asmx</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;character set=UNICODE_FSS;initial catalog=protocolvn.net:e:\rdbms\office---dhgfqhnbxa.gdb;data source=PLO;user id=SYSDBA;password=gi@0thuc;server type=0&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;FirebirdSql.Data.FirebirdClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">character set=UNICODE_FSS;initial catalog=protocolvn.net:e:\rdbms\office---dhgfqhnbxa.gdb;data source=PLO;user id=SYSDBA;password=gi@0thuc;server type=0</Value>
+    </Setting>
+    <Setting Name="ConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;data source=office;initial catalog="protocolvn.net:D:\RDBMS\FB\pl-office---dhgfqhnbxa.gdb ";user id=SYSDBA;password=masterkey&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;FirebirdSql.Data.FirebirdClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">data source=office;initial catalog="protocolvn.net:D:\RDBMS\FB\pl-office---dhgfqhnbxa.gdb ";user id=SYSDBA;password=masterkey</Value>
+    </Setting>
+    <Setting Name="ConnectionString2" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;initial catalog=protocolvn.net:D:\RDBMS\FB\pl-office---dhgfqhnbxa.gdb;data source=Office;user id=SYSDBA;password=masterkey&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;FirebirdSql.Data.FirebirdClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">initial catalog=protocolvn.net:D:\RDBMS\FB\pl-office---dhgfqhnbxa.gdb;data source=Office;user id=SYSDBA;password=masterkey</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

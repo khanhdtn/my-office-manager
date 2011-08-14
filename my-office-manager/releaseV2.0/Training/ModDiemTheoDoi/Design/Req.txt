@@ -1,0 +1,58 @@
+﻿Điểm thời gian đột xuất ko theo luật giải quyết thế nào ta ???
+
+
+
+Xây dựng 1 hệ thống quản lý các điểm theo dõi.
+Một điểm theo dõi? Để thực hiện công tác quản lý thời gian thực hiện các công việc 
+có đúng như dự kiến hay không người ta thường đặt các điểm theo dõi. Ví dụ như:
+Quản lý việc lên lớp đúng giờ của GV ?
+Quản lý việc mượn trả có đúng như dự kiến ko ?
+Quản lý việc gửi đề thi có đúng dữ kiến ko ?
+
+
+Mỗi điểm theo dõi bao gồm những gì
+- Những người tham gia trong điểm theo dõi đó ?
+- Lịch
+- Điểm thực hiện
+- Điểm kết thúc
+Ví dụ 
+
+Quản lý lên lớp đúng giờ
+- Những người tham gia : Tập thể giao viên
+- Lịch : Thời khoá biểu lên lớp
+- Điểm thực hiện: Lúc lên lớp
+- Điểm kết thúc: Lúc xuống lớp
+
+
+Quản lý việc gửi đề thi
+- Những người tham gia : Tập thể giáo viên
+- Lịch: Hạn chót nộp bản đề thi 
+- Điểm thực hiện: Lúc gửi đề thi
+- Điểm kết thúc:
+
+Lịch là gì ? Tập hợp các điểm mỗi điểm gồm các thông tin
+- Người tham gia
+- Thời gian bắt đầu
+- Thời gian kết thúc
+- ...
+
+
+
+Quan hệ giữa các điểm theo dõi về mặt thời gian
+
+Áp dụng Điểm theo dõi vào bài toán nhân sự 
+
+- Theo dõi thời gian làm việc
+	Lịch: Lịch làm việc trong 1 tháng
+	Yêu cầu : 8h - 12h 1h - 5h ( Vấn đề 2 khoản thời gian có thể chia nhỏ từng khoản).
+	Ghi nhận bắt đầu thực hiện: Lúc vào bằng Username/Pass
+	Ghi nhận kết thúc thực hiện : Lúc vào bằng Username/Pass
+- Theo dõi thời gian lên lớp
+	Lịch: Lịch lên lớp trong 1 Học ky
+	Yeu cầu la lên lớp đúng theo các thời gian yêu cầu
+	Ghi nhận bởi giám thị
+	Ghi nhận bởi giám thi
+- Theo dõi thời gian nhận trả máy chiếu. ???	
+
+
+
